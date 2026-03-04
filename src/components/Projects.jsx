@@ -8,6 +8,13 @@ const projects = [
     live: "https://www.mamadyeing.com.np/",
     repo: "https://github.com/pujan314/mama-dyeing",
   },
+   {
+    title: "Talevers (Bolt Hackathon)",
+    desc: "A creative storytelling platform built during Bolt’s World’s Largest Hackathon. Designed for interactive publishing and modern UI experience.",
+    img: "/talevers.png",
+    live: "https://talevers.netlify.app/",
+    repo: "https://github.com/pujan314", // replace with actual repo if available
+  },
   {
     title: "Portfolio Website",
     desc: "Personal portfolio built with React showcasing projects and skills.",
